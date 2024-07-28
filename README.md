@@ -46,14 +46,6 @@
     </li>
 </ul>
 
-<h3>Bonus Part</h3>
-<p>The bonus part includes additional features:</p>
-<ul>
-    <li>Implement logical operators <code>&&</code> and <code>||</code> with parenthesis for priorities.</li>
-    <li>Implement wildcard <code>*</code> for the current working directory.</li>
-</ul>
-<p>The bonus part will only be assessed if the mandatory part is perfect.</p>
-
 <h2>Usage</h2>
 <p>To use the <code>minishell</code> program, compile it using the provided Makefile and run it. The shell will display a prompt where you can enter commands, and it will execute them, supporting the features described above.</p>
 
